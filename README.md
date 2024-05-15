@@ -46,7 +46,7 @@ During my academic tenure, I've had the opportunity to work on a variety of proj
 
 My skill set encompasses a blend of technical proficiency, analytical rigor, and a knack for problem-solving. Here are some of the skills I bring to the table:
 
-<a href="https://www.python.org/" target="blank">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://github.com/saichandureddy/saichandureddy/blob/main/images/Python.jpg" style="height: 3rem"/>
 </a>
 
