@@ -6,7 +6,7 @@ Welcome to my GitHub account where you can explore my work experience, projects,
 
 <div>
   
-<a href="https://www.linkedin.com/in/saichandram/" target="blank">
+<a href="https://www.linkedin.com/in/sai-chandra-reddy-mandadapu/" target="blank">
 <img src="https://github.com/saichandureddy/saichandureddy/blob/main/images/linkedin2.png" style="height: 3rem"/>
 </a>
 
