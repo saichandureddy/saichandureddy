@@ -24,15 +24,14 @@ I'm Sai Chandra Reddy Mandadapu, a Data Analyst with a master's degree in Data A
 
 ### 👨🏻‍💻 Work Experience :
 
-With over 4 years of work experience in the field of Data Engineering and Analytics, I bring a wealth of practical knowledge and expertise to the table. Over the years, I've honed my skills in both data engineering, ensuring robust data pipelines and infrastructure, and data analysis, uncovering valuable insights to drive informed decision-making. My journey in the realm of data began with a fascination for unraveling complex patterns and extracting actionable insights from raw datasets. 
+With over 4 years of experience in Data Analytics and Business Intelligence, I specialize in transforming raw data into actionable insights that drive strategic business decisions. My expertise spans the full analytics lifecycle — from gathering and preparing data, to analysis, visualization, and communicating results to stakeholders.
 
-I've designed Extract, Transform, Load (ETL) processes to seamlessly ingest data from diverse sources, ensuring data quality and integrity throughout the pipelines and well-versed in leveraging tools like Hadoop, Spark, Databricks, Airflow, and Kafka to process and analyze massive datasets in distributed computing environments.
-Proficient in data modeling methods for optimized databases and warehouse to efficiently store and retrieve large volumes of data.
-Strong experience with cloud platforms such as AWS, Azure, managing data pipelines, data security compliance on cloud environments.
+I have designed and maintained ETL processes to integrate data from diverse sources, ensuring accuracy, consistency, and reliability. Skilled in data modeling for optimized reporting and dashboard performance, I work extensively with SQL, Power BI, Tableau, and Excel to deliver impactful visual analytics.
 
-I'm adept at applying statistical methods and hypothesis testing to identify patterns, correlations, and trends within data. Skilled in using visualization tools like Tableau, Matplotlib, Seaborn, and communicated the insights effectively and intuitively to stakeholders. Built machine learning models, to develop predictive models and algorithms to solve business problems using Scikit-learn, Tensorflow.
+My analytical toolkit includes statistical analysis, hypothesis testing, and identifying patterns and trends that inform decision-making. I leverage Python libraries like Pandas, NumPy, Matplotlib, and Seaborn for deeper exploration, and have experience applying predictive modeling techniques to support business forecasting.
 
-At the core of my professional ethos lies a deep-seated passion for solving complex problems. Whether it's optimizing data pipelines for efficiency, uncovering hidden patterns in datasets, or devising innovative solutions to business challenges, I thrive in environments that present intellectual challenges and opportunities for creative problem-solving.
+With a strong background in marketing analytics, retail analytics, and customer insights, I focus on connecting data to business goals. I thrive in environments where I can collaborate with stakeholders, solve complex problems, and create data-driven solutions that generate measurable impact.
+
 
 ### 📊 Academic Projects :
 
