@@ -1,4 +1,4 @@
-###   <h1 align="center">Hi there, I'm Sai Chandra Reddy Mandadapu 👋</h1>
+###   <h1 align="center">Hi there, 👋</h1>
 
 Welcome to my GitHub account where you can explore my work experience, projects, education,interests and many more.
 
@@ -20,7 +20,7 @@ Welcome to my GitHub account where you can explore my work experience, projects,
 
 Let me introduce myself,
 
-I'm Sai Mandadapu, a passionate Data Engineering and Analytics enthusiast, recently graduated from Northeastern University with master's degree in Data Analytics Engineering. I am excited to embark on the next chapter of my journey in the dynamic world of Data Science. I am actively seeking opportunities where I can apply my skills and knowledge to drive meaningful insights and actionable solutions. If you're looking for a dedicated and enthusiastic team member who is eager to contribute and learn, I'd love to connect!
+I'm Sai Chandra Reddy Mandadapu, a Data Analyst with a master's degree in Data Analytics Engineering from Northeastern University. I currently work in marketing analytics, retail, and customer insights, leveraging data to deliver meaningful insights and support business decisions. Passionate about continuous learning, I am focused on upskilling in advanced analytics, machine learning and Artificial Intelligence to grow into new roles and take on greater challenges.
 
 ### 👨🏻‍💻 Work Experience :
 
