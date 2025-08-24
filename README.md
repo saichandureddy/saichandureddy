@@ -10,7 +10,9 @@ Welcome to my GitHub account where you can explore my work experience, projects,
 <img src="https://github.com/saichandureddy/saichandureddy/blob/main/images/linkedin2.png" style="height: 3rem"/>
 </a>
 
-[![Gmail](https://github.com/saichandureddy/saichandureddy/blob/main/images/gmail.png)](mailto:msaichandrareddy16@gmail.com)
+<a href="mailto:msaichandrareddy16@gmail.com">
+  <img src="https://github.com/saichandureddy/saichandureddy/blob/main/images/gmail.png" width="40" height="40">
+</a>
 
 </div>
 
